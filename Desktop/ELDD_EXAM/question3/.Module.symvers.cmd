@@ -1,1 +1,0 @@
-cmd_/home/coderaju/Desktop/ELDD_EXAM/question3/Module.symvers := sed 's/ko$$/o/' /home/coderaju/Desktop/ELDD_EXAM/question3/modules.order | scripts/mod/modpost -m -a   -o /home/coderaju/Desktop/ELDD_EXAM/question3/Module.symvers -e -i Module.symvers   -T -

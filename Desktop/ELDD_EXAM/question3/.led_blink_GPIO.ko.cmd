@@ -1,1 +1,0 @@
-cmd_/home/coderaju/Desktop/ELDD_EXAM/question3/led_blink_GPIO.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/coderaju/Desktop/ELDD_EXAM/question3/led_blink_GPIO.ko /home/coderaju/Desktop/ELDD_EXAM/question3/led_blink_GPIO.o /home/coderaju/Desktop/ELDD_EXAM/question3/led_blink_GPIO.mod.o;  true
