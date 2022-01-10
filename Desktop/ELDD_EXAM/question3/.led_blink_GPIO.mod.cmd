@@ -1,0 +1,1 @@
+cmd_/home/coderaju/Desktop/ELDD_EXAM/question3/led_blink_GPIO.mod := { echo  /home/coderaju/Desktop/ELDD_EXAM/question3/led_blink_GPIO.o;  echo; } > /home/coderaju/Desktop/ELDD_EXAM/question3/led_blink_GPIO.mod
